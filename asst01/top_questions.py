@@ -1,3 +1,6 @@
+##Top 10 questions
+##Import .csv file, find questions with the highest time spent on them.  
+
 import sys
 
 #takes a line, evaluates whether it is a question, returns boolean
