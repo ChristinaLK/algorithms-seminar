@@ -1,0 +1,33 @@
+    1  cd Desktop/projects/
+    2  ls
+    3  cd "coding seminar"
+    4  grep "Question" Analytics_Fall201
+    5  grep "Question" Analytics_Fall2013
+    6  grep "Question" Analytics_Fall2012
+    7  grep "Question" Analytics_Fall2012.csv 
+    8  grep "Question" Analytics_Fall2013.csv | prelim.txt
+    9  grep "Question" Analytics_Fall2013.csv >>  prelim.txt
+   10  less prelim.txt 
+   11  cut prelim.txt -d , -f 1 4 >> prelim2.txt
+   12  cut prelim.txt -d , -f "1, 4" >> prelim2.txt
+   13  less prelim2.txt 
+   14  cut prelim.txt -d , -f="1, 4" >> prelim2.txt
+   15  cut prelim.txt -d , -f 1,4 >> prelim2.txt
+   16  less prelim2.txt 
+   17  cut prelim.txt -d / -f 3-5 >> prelim2.txt
+   18  less prelim2.txt 
+   19  less prelim
+   20  less prelim.txt 
+   21  cut prelim.txt -d / -f 4-6 > prelim2.txt 
+   22  less prelim2.txt 
+   23  cut prelim.txt -d , -f 1,4 > prelim2.txt 
+   24  notepad prelim2.txt 
+   25  cut prelim2.txt -d / -f 4-6 > prelim3.txt
+   26  notepad prelim3.txt 
+   27  less prelim3.txt 
+   28  sort prelim3.txt -t , -k 2 > prelim4.txt
+   29  notepad prelim4.txt 
+   30  sort prelim3.txt -t , -k 2 -r > prelim4.txt
+   31  notepad prelim4.txt 
+   32  notepad top10.sh
+   33  history > history.txt
