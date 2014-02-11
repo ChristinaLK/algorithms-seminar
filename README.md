@@ -10,3 +10,4 @@ List of assignments:
 * asst01: python tutorial in ipython notebook, scripts in shell + python analyzing google analytics spreadsheet
 * asst02: implementation of merge_sort
 * asst04: implementation of shell_sort
+* asst05: implemenation of a linked list data structure - a node class and linked_list class
