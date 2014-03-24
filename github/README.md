@@ -1,7 +1,7 @@
 Collaborating on GitHub
 -----------------------
 
-Lesson for participants in MATH 607, graduate seminar in algorithms at the University of British Columbia math department. 
+Lesson for participants in MATH 701, graduate seminar in algorithms at the University of British Columbia math department. 
 
 To install git, see the install instructions.  
 
