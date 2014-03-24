@@ -12,6 +12,6 @@ For notes on Christina's presentation on how to
 * push commits + submit a pull request
 * pull changes from the master online repository
 
-see the collaboration file.  
+see the appropriate collaboration file.  
 
-For this week's mini-assignment, please follow the directions in the directions file.  
+For this week's mini-assignment, please follow the directions in the assignment file.  
