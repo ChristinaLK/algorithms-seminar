@@ -30,4 +30,10 @@ somewhere on your repository page).
 First, you must add the central repository as a remote to your project, by going 
 to the remote menu and choosing "add".  Put in the url of the central repo, plus a 
 name for your own use.  The remote will appear in the left pane under "branches."  
-Right-click on the remote's name and select pull.  
+Right-click on the remote's name and select pull. 
+
+###Note on workflow
+
+It is helpful to pull from the central repository 
+on a semi-regular basis in order to keep up with 
+changes.   

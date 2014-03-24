@@ -49,3 +49,9 @@ $git pull <name-chosen-above> master
 
 If you have a merge conflict, edit the documents listed as being in conflict, then 
 add and commit them as in 3.  
+
+###Note on workflow
+
+It is helpful to pull from the central repository 
+on a semi-regular basis in order to keep up with 
+changes.  
